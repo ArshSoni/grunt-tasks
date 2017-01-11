@@ -1,0 +1,21 @@
+{
+  "name": "ProjectName",
+  "version": "0.1.0",
+  "author": "Arshdeep Soni",
+  "dependencies": {
+    "grunt": "^1.0.1"
+  },
+  "devDependencies": {
+    "grunt-contrib-cssmin": "latest",
+    "grunt-contrib-watch": "latest", 
+    "grunt-contrib-uglify": "latest",
+    "grunt-contrib-imagemin": "latest",
+    "grunt-contrib-concat": "latest",
+    "grunt-contrib-pug": "latest",
+    "grunt-contrib-copy": "latest",
+    "grunt-contrib-htmlmin": "latest",
+    "grunt-contrib-sass": "latest",
+    "grunt-csso": "latest",
+    "grunt-string-replace": "latest"
+  }
+}
